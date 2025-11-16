@@ -1,0 +1,4 @@
+C:\Users\Said\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\Said\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Said\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\Said\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
